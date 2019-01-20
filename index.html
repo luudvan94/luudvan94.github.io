@@ -1,7 +1,15 @@
 ---
 layout: default
 title: Luu Dinh Van
+intro: Hi There, nothing special at this moment, but wish you all the best, really :)
 ---
-<div class="blurb">
-	<h1>Hello there ! :) :) :)</h1>
-</div><!-- /.blurb -->
+
+<ul class="posts">
+
+	{% for post in site.posts %}
+	<li>
+		<span class="datetime">{{ post.date | date_to_string }}</span> <br />
+		<a href="{{ post.url }}" title="{{ post.title }}"><b>{{post.title}}</b></a>
+	</li>
+	{% endfor %}
+</ul>

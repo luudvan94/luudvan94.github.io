@@ -1,0 +1,15 @@
+---
+#this ensures Jekyll reads the file to be transformed into CSS later
+#only Main files contain this front matter, not partials.
+---
+
+@import "typography";
+
+.content {
+  padding: .5rem 1rem;
+}
+
+.navbar-toggler {
+    border-color: rgb(0, 0, 0);
+  } 
+
