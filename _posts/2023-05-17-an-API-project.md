@@ -5,7 +5,7 @@ date: 2023-05-17
 tag: projects api recipe
 ---
 
-**Title: Day 1: The First Step on My API Development Journey**
+**Day 1: The First Step on My API Development Journey**
 
 Today was a milestone for me. The first day of my journey in learning how to develop an API. If you'd ask me, "Why an API?" Well, I've always been fascinated with the way they connect and bring data to life. I wanted to understand how they work, how they're built, and to have the ability to create one myself.
 
