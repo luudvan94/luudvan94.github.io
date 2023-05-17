@@ -5,10 +5,12 @@ intro: I would like to keep doing 1 short writting a day, the goal is praticing 
 ---
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  {% for post in tag[1] %}
   <li>
     <span class="datetime">{{ post.date | date_to_string }}</span> <br />
     <a href="{{ post.url }}" title="{{ post.title }}"><b>{{post.title}}</b></a>
   </li>
-  {% endfor %}
+  {% endfor %} {% endfor %}
 </ul>
