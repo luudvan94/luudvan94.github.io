@@ -1,28 +1,44 @@
-// This is a partial.
-// It lies in <source>/_sass, just waiting to be imported.
-// It does not contain the YAML front matter and has no corresponding output file in the built site.
-
 body {
-    font-family: 'Roboto Mono', monospace;
-    font-size: 18px;
-    line-height: 1.5;
-    color: #24292e;
-    background-color: #fff;
+  font-family: "Roboto Mono", monospace;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #24292e;
+  background-color: #fff;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #007bff;
+    text-decoration: underline;
   }
-  
-  a {
-    color: #000000;
+
+  &:visited {
+    color: #6c757d;
   }
-  
-  code,
-  pre {
-    font-family: Menlo, Consolas, "Consolas for Powerline", "Courier New", Courier, monospace;
-    background-color: #2b2b2b;
-    color: #fff;
-    padding: 0.25em
+
+  &:active {
+    color: #28a745;
   }
+}
+
+code,
+pre {
+  font-family: Menlo, Consolas, "Consolas for Powerline", "Courier New", Courier,
+    monospace;
+  background-color: #2b2b2b;
+  color: #fff;
+  padding: 0.25em;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  line-height: 1;
+  overflow: auto;
+}
 
 .datetime {
-    font-family: 'VT323', monospace;
-    font-size: 19px;
+  font-family: "VT323", monospace;
+  font-size: 19px;
 }

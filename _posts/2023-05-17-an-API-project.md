@@ -2,7 +2,7 @@
 layout: post
 title: "An API Project"
 date: 2023-05-17
-tag: projects api recipe
+tags: projects api recipe
 ---
 
 **Day 1: The First Step on My API Development Journey**
