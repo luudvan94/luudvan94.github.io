@@ -2,7 +2,7 @@
 layout: post
 title: 🚀 My Journey into Machine Learning
 date: 2023-05-18
-tags: learning machine-learning
+tags: [learning]
 ---
 
 Hello everyone! Recently, I've embarked on a fascinating journey into the world of Machine Learning. In this blog, I want to share some of the essential concepts I've learned so far. So buckle up, and let's dive in! 🏊‍♀️

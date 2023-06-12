@@ -2,7 +2,7 @@
 layout: post
 title: "Luu Dinh Van - First post"
 date: 2018-09-27
-tag: life
+tags: [life]
 ---
 
 # Welcome

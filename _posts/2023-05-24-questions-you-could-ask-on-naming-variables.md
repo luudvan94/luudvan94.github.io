@@ -2,7 +2,7 @@
 layout: post
 title: "Questions You Could Ask Yourself When Naming a Variable"
 date: 2023-05-24
-tags: learning fundamental-coding
+tags: [learning]
 ---
 
 When naming a variable, you can ask yourself the following questions to ensure the name is meaningful and clear:

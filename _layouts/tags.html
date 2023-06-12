@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1>Tag: {{ page.tag }}</h1>
+
+<ul class="posts">
+  {% for post in site.posts %} {% if post.tags contains page.tag %}
+  <li>
+    <span class="datetime">{{ post.date | date_to_string }}</span><br />
+    <a href="{{ post.url }}" title="{{ post.title }}"
+      ><b>{{ post.title }}</b></a
+    >
+  </li>
+  {% endif %} {% endfor %}
+</ul>

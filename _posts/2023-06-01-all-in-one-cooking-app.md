@@ -2,7 +2,7 @@
 layout: post
 title: "An all-in-one cooking app, my side project"
 date: 2023-06-01
-tags: projects api recipe
+tags: [projects, recipe]
 ---
 
 # 🚀 Introducing My New All-in-One Cooking App 🍲
