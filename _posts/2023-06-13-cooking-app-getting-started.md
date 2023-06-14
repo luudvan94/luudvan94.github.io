@@ -2,7 +2,7 @@
 layout: post
 title: Embarking on a New Journey 🚀 Day 1
 date: 2023-06-13
-tags: [cooking_app]
+tags: [cooking-app]
 ---
 
 Hello, world! 🌍 Welcome to the first post of my exciting journey in crafting an application that will revolutionize our kitchen experiences. I am thrilled to announce my vision, an application that empowers users in cooking, with a friendly assistant by their side. And who better than the AI powered by OpenAI's GPT-4, none other than the ChatGPT itself! 🤖🍳
