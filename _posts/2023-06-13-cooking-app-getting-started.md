@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 1: Embarking on a New Journey 🚀 
-date: 2023-06-12
+date: 2023-06-13
 tags: [cooking_app]
 ---
 
