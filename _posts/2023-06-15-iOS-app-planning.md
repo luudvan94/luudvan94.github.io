@@ -2,7 +2,7 @@
 layout: post
 title: "iOS Application Development: Modular Architecture Approach for 'Let's Cook' 📱🏗️"
 date: 2023-06-15
-tags: [cooking-app]
+tags: [cooking-app, ios]
 ---
 
 Day 2 of the 'Let's Cook' application project commences with a comprehensive exploration of modularization. As the sole proprietor, my strategy revolves around a modularized architectural pattern, primarily for its systematic, organized structure that facilitates the addition of new features. The focal point for this phase is Phrase 1, encapsulating the 'Recipe Searching' functionality.
