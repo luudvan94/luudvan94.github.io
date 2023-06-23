@@ -31,6 +31,6 @@ To make testing easier and more efficient, I used the `Dependencies` library to 
 
 By following these steps, I was able to confidently build and test the Recipe Detail feature, knowing that it works as expected in different scenarios. 🥳
 
-You can check out the full code and tests on my [GitHub repository](https://github.com/yourgithubusername/yourrepository). Feel free to browse through it, pull it down, and play around. I'm always open to feedback and suggestions. 💌
+You can check out the full code and tests on my [GitHub repository](https://github.com/luudvan94/LetsCook/commit/008b0dff579a8a548c69758f63503dc03d8876a1). Feel free to browse through it, pull it down, and play around. I'm always open to feedback and suggestions. 💌
 
 Thanks for joining me on this journey! Stay tuned for more updates on this exciting project. Happy coding! 💻🚀
